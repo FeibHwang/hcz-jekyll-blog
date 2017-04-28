@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/FeibHwang
 about: Software Developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://github.com/FeibHwang/hcz-jekyll-blog"
+url: "https://github.com/FeibHwang/hcz-jekyll-blog"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
